@@ -1,0 +1,38 @@
+[
+    {
+        "task": "課題",
+        "date": "2026-04-16",
+        "start_at": "23:54:49",
+        "duration": "00:00:07",
+        "duration_sec": 7,
+        "mode": "UP",
+        "timestamp": 1776351289.417303
+    },
+    {
+        "task": "テスト",
+        "date": "2026-04-16",
+        "start_at": "23:57:28",
+        "duration": "00:01:19",
+        "duration_sec": 79,
+        "mode": "DOWN",
+        "timestamp": 1776351448.119617
+    },
+    {
+        "task": "UNDEFINED_TASK",
+        "date": "2026-04-16",
+        "start_at": "23:59:33",
+        "duration": "00:00:08",
+        "duration_sec": 8,
+        "mode": "UP",
+        "timestamp": 1776351573.8564649
+    },
+    {
+        "task": "UNDEFINED_TASK",
+        "date": "2026-04-17",
+        "start_at": "00:02:16",
+        "duration": "00:02:29",
+        "duration_sec": 149,
+        "mode": "DOWN",
+        "timestamp": 1776351736.460757
+    }
+]
